@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab298671-5817-48a9-92c0-571cbfb983f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/src/main/java/course/javaweb/hello/HelloSpringMvcGradleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/src/main/java/course/javaweb/hello/web/HelloRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/src/test/java/course/javaweb/hello/HelloSpringMvcGradleApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-fundamentals/src/concurrency/PrimeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-fundamentals/src/concurrency/SimpleDeadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-fundamentals/threaddump-deadlock-dining-pholosophers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-fundamentals/threaddump-deadlock-left-right.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicing.db" beforeDir="false" afterPath="$PROJECT_DIR$/invoicing.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invoicing-lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../invoicing-lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-fundamentals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-fundamentals/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1tTbkLS7vX2y1S3IrCxAWa7sD2U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.13314968" />
+    <property name="project.structure.side.proportion" value="0.13192612" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Course_Java_Web_Development\git\course-java-web-2021\invoicing-lab-maven2\src\main\resources" />
+      <recent name="D:\Course_Java_Web_Development\git\course-java-web-2021\invoicing-lab-maven2\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="invoicing.dao.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="invoicing.commands" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="invoicing.Main" />
+      <module name="invoicing-lab-maven2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="invoicing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit5NewFeaturesTest.dynamicTestsCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invoicing-lab-maven2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="invoicing.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="invoicing.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="invoicing.dao.impl.Junit5NewFeaturesTest" />
+      <option name="METHOD_NAME" value="dynamicTestsCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit5NewFeaturesTest.dynamicTestsForProductWorkflows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invoicing-lab-maven2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="invoicing.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="invoicing.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="invoicing.dao.impl.Junit5NewFeaturesTest" />
+      <option name="METHOD_NAME" value="dynamicTestsForProductWorkflows" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit5NewFeaturesTest.dynamicTestsStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invoicing-lab-maven2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="invoicing.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="invoicing.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="invoicing.dao.impl.Junit5NewFeaturesTest" />
+      <option name="METHOD_NAME" value="dynamicTestsStream" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit5NewFeaturesTest.test_Devide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invoicing-lab-maven2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="invoicing.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="invoicing.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="invoicing.dao.impl.Junit5NewFeaturesTest" />
+      <option name="METHOD_NAME" value="test_Devide" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Junit5NewFeaturesTest.dynamicTestsForProductWorkflows" />
+        <item itemvalue="JUnit.Junit5NewFeaturesTest.dynamicTestsStream" />
+        <item itemvalue="JUnit.Junit5NewFeaturesTest.dynamicTestsCollection" />
+        <item itemvalue="JUnit.Junit5NewFeaturesTest.test_Devide" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab298671-5817-48a9-92c0-571cbfb983f4" name="Default Changelist" comment="" />
+      <created>1622796170564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622796170564</updated>
+      <workItem from="1622796173504" duration="8163000" />
+      <workItem from="1622806542184" duration="7701000" />
+      <workItem from="1623152079521" duration="4981000" />
+    </task>
+    <task id="LOCAL-00001" summary="project initial commit">
+      <created>1622796605728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622796605728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pom config extended">
+      <created>1622796959184</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622796959184</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pom config extended">
+      <created>1622798230071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622798230071</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pom config extended">
+      <created>1622801022022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622801022022</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test methods added">
+      <created>1622802659813</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622802659813</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test methods added">
+      <created>1622805230245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622805230245</updated>
+    </task>
+    <task id="LOCAL-00007" summary="light-weight persistence using Java serialization">
+      <created>1622816650990</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622816650990</updated>
+    </task>
+    <task id="LOCAL-00008" summary="config updated">
+      <created>1623153896847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623153896847</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="project initial commit" />
+    <MESSAGE value="pom config extended" />
+    <MESSAGE value="test methods added" />
+    <MESSAGE value="light-weight persistence using Java serialization" />
+    <MESSAGE value="config updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="config updated" />
+  </component>
+</project>
