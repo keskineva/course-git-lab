@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab298671-5817-48a9-92c0-571cbfb983f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/src/main/java/course/javaweb/hello/HelloSpringMvcGradleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/src/main/java/course/javaweb/hello/web/HelloRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-mvc-gradle/src/test/java/course/javaweb/hello/HelloSpringMvcGradleApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-fundamentals/src/concurrency/PrimeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-fundamentals/src/concurrency/SimpleDeadlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-fundamentals/threaddump-deadlock-dining-pholosophers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-fundamentals/threaddump-deadlock-left-right.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/invoicing/dao/impl/Junit5NewFeaturesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/invoicing/dao/impl/ProductRepositoryMemoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invoicing.db" beforeDir="false" afterPath="$PROJECT_DIR$/invoicing.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../invoicing-lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../invoicing-lab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-fundamentals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-fundamentals/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +59,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -99,6 +83,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="invoicing.Main" />
       <module name="invoicing-lab-maven2" />
@@ -115,17 +110,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,6 +281,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
